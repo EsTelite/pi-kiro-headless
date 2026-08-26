@@ -1,0 +1,9 @@
+{
+  "name": "pi-kiro-headless",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pi extension for invoking Kiro CLI headlessly",
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  }
+}
